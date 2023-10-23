@@ -1,4 +1,4 @@
-# yii2-notyf
+# yii2-fullcalendar6
 
 JavaScript Calendar for Yii framework.
 
